@@ -1,7 +1,7 @@
 # Hyperspectral Image Processing (Implementation from Scratch)
 
 ## View in Google Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AshleshaShelke2004/Indian-Pines-Image-Processing/blob/main/HSI_Processing.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AshleshaShelke2004/Indian-Pines-Image-Processing/blob/main/GNR_Assignment.ipynb)
 
 ## Assignment Overview
 This project implements fundamental image processing and enhancement algorithms on the **Indian Pines Hyperspectral Dataset**. 
@@ -38,4 +38,5 @@ This project implements fundamental image processing and enhancement algorithms 
    ```bash
 
    pip install -r requirements.txt
+
 
